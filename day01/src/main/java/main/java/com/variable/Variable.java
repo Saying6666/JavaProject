@@ -43,5 +43,6 @@ public class Variable {
         System.out.println(initial+1); // 输出字符变量
         // 注意：字符类型变量可以进行算术运算，'A'的ASCII
         // 值是65，所以'A' + 1的结果是66，对应的字符是'B'。
+        
     }
 }
