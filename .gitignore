@@ -1,0 +1,25 @@
+# Maven target directories
+target/
+
+# Compiled class files
+*.class
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log

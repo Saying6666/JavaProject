@@ -43,6 +43,7 @@ public class LiteralDemo {
         
         //二进制字面量
         int binaryNumber = 0b1010; // 二进制
+        System.out.println(binaryNumber);
 
     }
 }
